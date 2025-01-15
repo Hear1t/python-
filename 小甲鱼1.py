@@ -9,7 +9,6 @@ print("end")'''
 y=5
 x,y=y,x
 print(x,y)'''
-impor
 count=3
 while(count):
     print("i love fishc\nyes")
